@@ -1,4 +1,4 @@
-package wasi:otel@0.2.0-draft;
+package wasi:otel@0.2.0-rc.1;
 
 world imports {
     import types;
