@@ -2,7 +2,7 @@
 A proposed [WebAssembly System Interface](https://github.com/WebAssembly/WASI) API.
 
 ### Current Phase
-wasi-otel is currently in [Phase 1](https://github.com/WebAssembly/WASI/blob/main/docs/Proposals.md#phase-1---feature-proposal-cg)
+wasi-otel is currently in [Phase 2](https://github.com/WebAssembly/WASI/blob/main/docs/Proposals.md)
 
 ### Champions
 - [Caleb Schoepp](https://github.com/calebschoepp)
