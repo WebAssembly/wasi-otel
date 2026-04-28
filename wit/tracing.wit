@@ -8,7 +8,7 @@ interface tracing {
     /// Called when a span is ended.
     on-end: func(span: span-data);
 
-    /// Returns the currently active ambient span context
+    /// Returns the span context of the most recently entered span.
     current-span-context: func() -> span-context;
 
     /// The data associated with a span.
